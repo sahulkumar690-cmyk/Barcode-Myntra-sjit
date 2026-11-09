@@ -1,2 +1,2 @@
-# Barcode-Myntra-sjit
-Bhhjhu
+# Barcode-Myntra-sjit X KIND 
+
